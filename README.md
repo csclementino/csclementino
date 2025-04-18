@@ -4,15 +4,15 @@
 
 <p align="center">Desenvolvedor apaixonado por tecnologia, inovação e sistemas inteligentes. Atualmente focado em projetos com impacto real, especialmente nas áreas de automação, mobilidade urbana e energia renovável ⚡</p>
 
-###
 
+---
 <h3 align="left">🧠 Sobre mim</h3>
 
 ###
 
 <p align="left">- 🎓 Técnico em Eletrônica e estudante de ADS (FIAP)  <br>- 🔧 Experiência com desenvolvimento de sistemas embarcados, bots e automação  <br>- 💬 Atualmente envolvido em projetos com Python, SQL, Java e integração com APIs  <br>- 🚀 Acredito no poder da tecnologia para transformar realidades</p>
 
-###
+---
 
 <h3 align="left">🚀 Tecnologias que utilizo</h3>
 
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">📈 Minhas estatísticas</h3>
 
@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=csclementino&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
 <h3 align="left">🌐 Onde me encontrar</h3>
 
@@ -61,4 +61,4 @@
   </a>
 </div>
 
-###
+
