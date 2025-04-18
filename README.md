@@ -38,10 +38,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csclementino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=pt-br&hide_border=true&order=1&custom_title=Satus" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=csclementino&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=csclementino&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true&custom_title=Atividade" height="300" alt="activity-graph graph"  />
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <div style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=csclementino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=pt-br&hide_border=true&order=1&custom_title=Status" width="420" alt="stats graph" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=csclementino&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" width="340" alt="languages graph" />
+  </div>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=csclementino&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true&custom_title=Atividade" width="760" alt="activity-graph graph" />
 </div>
 
 ###
