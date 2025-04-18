@@ -1,59 +1,65 @@
 <h1 align="center">Olá, eu sou o Carlos 👋</h1>
 
-<p align="center">
-  Desenvolvedor apaixonado por tecnologia, inovação e sistemas inteligentes. Atualmente focado em projetos com impacto real, especialmente nas áreas de automação, mobilidade urbana e energia renovável ⚡
-</p>
+###
 
----
+<p align="center">Desenvolvedor apaixonado por tecnologia, inovação e sistemas inteligentes. Atualmente focado em projetos com impacto real, especialmente nas áreas de automação, mobilidade urbana e energia renovável ⚡</p>
 
-### 🧠 Sobre mim
+###
 
-- 🎓 Técnico em Eletrônica e estudante de Análise e Desenvolvimento de Sistemas  
-- 🔧 Experiência com desenvolvimento de sistemas embarcados, bots e automação  
-- 💬 Atualmente envolvido em projetos com Python, Java e integração com APIs  
-- 🚀 Acredito no poder da tecnologia para transformar realidades
+<h3 align="left">🧠 Sobre mim</h3>
 
----
+###
 
-### 🚀 Tecnologias que uso
+<p align="left">- 🎓 Técnico em Eletrônica e estudante de ADS (FIAP)  <br>- 🔧 Experiência com desenvolvimento de sistemas embarcados, bots e automação  <br>- 💬 Atualmente envolvido em projetos com Python, SQL, Java e integração com APIs  <br>- 🚀 Acredito no poder da tecnologia para transformar realidades</p>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
-</p>
+###
 
----
+<h3 align="left">🚀 Tecnologias que utilizo</h3>
 
-### 📈 Minhas estatísticas
+###
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=csclementino&show_icons=true&theme=tokyonight&hide_border=false&title_color=00BFFF&icon_color=00BFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csclementino&layout=compact&langs_count=8&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
 
----
+###
 
-### 🌐 Onde me encontrar
+<h3 align="left">📈 Minhas estatísticas</h3>
 
-<p align="left">
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=csclementino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=pt-br&hide_border=true&order=1&custom_title=Satus" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=csclementino&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=csclementino&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true&custom_title=Atividade" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h3 align="left">🌐 Onde me encontrar</h3>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/carlosclementino" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=F28D52&logoColor=&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/cs.clementino" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-1c1c1c?style=for-the-badge&logo=instagram&logoColor=00BFFF"/>
+  <a href="@mistercharles" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=59514F&logoColor=F28D52&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-  <a href="mailto:carlos-clementino@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-1c1c1c?style=for-the-badge&logo=gmail&logoColor=00BFFF"/>
+  <a href="carlos-clementino@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=59514F&logoColor=F28D52&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-</p>
+</div>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=100&section=footer"/>
-</p>
+###
