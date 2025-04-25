@@ -1,13 +1,13 @@
 ## 👾 Fala dev! Eu sou o Carlos 👨‍💻
 
 <p align="left">
-- 🎓 Ingressando em Análise e Desenvolvimento de Sistemas na FIAP
+- 🎓 <strong>Ingressando em Análise e Desenvolvimento de Sistemas na FIAP</strong>
 <br>
-- 🔧 Formado como Técnico em Eletrônica
+- 🔧 <strong>Formado como Técnico em Eletrônica</strong>
 <br>
-- 🧩 Desenvolvedor Full Stack
+- 🧩 <strong>Desenvolvedor Full Stack</strong>
 <br>
-- 🚀 Co-fundador da ARC Group, uma startup de tecnologia
+- 🚀 <strong>Co-fundador da ARC Group</strong>, uma startup de tecnologia
 <br>
 </p>
 
