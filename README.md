@@ -12,7 +12,7 @@
 Sou apaixonado por transformar ideias em soluções práticas. Tenho experiência com desenvolvimento de sistemas, automação, aplicações web e interfaces inteligentes. Estou sempre buscando maneiras de inovar e agregar valor através da tecnologia.
 
 ---
-<img src="https://cdn.discordapp.com/attachments/1116706891779813480/1365450771478351942/pngwing.com_4.png?ex=680d5aa0&is=680c0920&hm=bf196402ce8453cb8b8fdb296af3525520c9266b8ded1f5f65eaeae8a41e5893&" alt="ilustração de programador" min-width="400px" max-width="200px" width="200px" align="right">
+<img src="https://cdn.discordapp.com/attachments/1116706891779813480/1365450771478351942/pngwing.com_4.png?ex=680d5aa0&is=680c0920&hm=bf196402ce8453cb8b8fdb296af3525520c9266b8ded1f5f65eaeae8a41e5893&" alt="ilustração de gato com notebook" min-width="400px" max-width="300px" width="300px" align="right" >
 
 ### 🧠 Linguagens e Tecnologias que utilizo:
 
