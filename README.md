@@ -1,63 +1,50 @@
-<h1 align="center">Olá, eu sou o Carlos 👋</h1>
+## 👨‍💻 Olá, meu nome é [Seu Nome]!  
 
-###
+🎓 Ingressando em Análise e Desenvolvimento de Sistemas na FIAP, com grande entusiasmo por tecnologia e inovação.  
+🔧 Formado como Técnico em Eletrônica, com sólida base prática e teórica.  
+🧩 Desenvolvedor Full Stack com foco em soluções práticas, escaláveis e com boa usabilidade.  
+🚀 Co-fundador da ARC Group, uma startup de tecnologia voltada para soluções reais de problemas reais.  
 
-<p align="center">Desenvolvedor apaixonado por tecnologia, inovação e sistemas inteligentes. Atualmente focado em projetos com impacto real, especialmente nas áreas de automação, mobilidade urbana e energia renovável ⚡</p>
-
-
----
-<h3 align="left">🧠 Sobre mim</h3>
-
-###
-
-<p align="left">- 🎓 Técnico em Eletrônica e estudante de ADS (FIAP)  <br>- 🔧 Experiência com desenvolvimento de sistemas embarcados, bots e automação  <br>- 💬 Atualmente envolvido em projetos com Python, SQL, Java e integração com APIs  <br>- 🚀 Acredito no poder da tecnologia para transformar realidades</p>
+Sou apaixonado por transformar ideias em soluções práticas. Tenho experiência com desenvolvimento de sistemas, automação, aplicações web e interfaces inteligentes. Estou sempre buscando maneiras de inovar e agregar valor através da tecnologia.
 
 ---
+<img src="https://thumbs.dreamstime.com/b/%C3%B3culos-programadores-para-ilustra%C3%A7%C3%A3o-de-desenho-animado-vetor-plano-laptop-processo-reflex%C3%A3o-que-as-ideias-v%C3%AAm-tecnologia-218990719.jpg" alt="ilustração de gato com notebook" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h3 align="left">🚀 Tecnologias que utilizo</h3>
 
-###
+### 🧠 Linguagens e Tecnologias que utilizo:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+<div style="inline_block">
+  <img alt="C" src="https://img.shields.io/badge/C-00000F?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=white">
+</div>
+
+<div style="inline_block">
+  <img alt="React" src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-00000F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-00000F?style=for-the-badge&logo=oracle&logoColor=white">
+</div>
+
+<div style="inline_block">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-00000F?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-00000F?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-00000F?style=for-the-badge&logo=figma&logoColor=white">
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00000F?style=for-the-badge&logo=arduino&logoColor=white">
 </div>
 
 ---
 
-<h3 align="left">📈 Minhas estatísticas</h3>
+### 📞 Contato
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=csclementino&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
----
-
-<h3 align="left">🌐 Onde me encontrar</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/carlosclementino" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=F28D52&logoColor=&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+<p align="left">
+  <a href="https://www.linkedin.com/in/carlosclementino" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="@mistercharles" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=59514F&logoColor=F28D52&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="carlos-clementino@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=59514F&logoColor=F28D52&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
+  <a href="mailto:carlossantiagoclementino36@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+  </a>
 
+  <img src="https://img.shields.io/badge/Discord-mistercharles-0A66C2?style=for-the-badge&logoColor=white" alt="Discord"/>
+</p>
