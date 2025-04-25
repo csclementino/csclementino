@@ -1,6 +1,7 @@
 ## 👨‍💻 Olá, meu nome é Carlos!  
 
 🎓 Ingressando em Análise e Desenvolvimento de Sistemas na FIAP.
+<br>
 🔧 Formado como Técnico em Eletrônica.
 🧩 Desenvolvedor Full Stack.
 🚀 Co-fundador da ARC Group, uma startup de tecnologia.
