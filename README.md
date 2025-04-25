@@ -1,4 +1,4 @@
-## 👨‍💻 Olá, meu nome é Carlos!  
+## 👾 Fala dev! Eu sou o Carlos 👨‍💻
 
 <p align="left">
 - 🎓 Ingressando em Análise e Desenvolvimento de Sistemas na FIAP
