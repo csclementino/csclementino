@@ -8,7 +8,6 @@
 Sou apaixonado por transformar ideias em soluções práticas. Tenho experiência com desenvolvimento de sistemas, automação, aplicações web e interfaces inteligentes. Estou sempre buscando maneiras de inovar e agregar valor através da tecnologia.
 
 ---
-<img src="https://thumbs.dreamstime.com/b/%C3%B3culos-programadores-para-ilustra%C3%A7%C3%A3o-de-desenho-animado-vetor-plano-laptop-processo-reflex%C3%A3o-que-as-ideias-v%C3%AAm-tecnologia-218990719.jpg" alt="ilustração de gato com notebook" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 ### 🧠 Linguagens e Tecnologias que utilizo:
