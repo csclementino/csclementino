@@ -14,7 +14,7 @@
 Sou apaixonado por transformar ideias em soluções práticas. Tenho experiência com desenvolvimento de sistemas, automação, aplicações web e interfaces inteligentes. Estou sempre buscando maneiras de inovar e agregar valor através da tecnologia.
 
 ---
-<img src="https://www.dropbox.com/scl/fi/m5l3mlpoaes3w0b2a4ytu/pngwing.com-4.png" alt="ilustração de garoto com notebook" min-width="400px" max-width="200px" width="200px" align="right" >
+<img src="ilustracao.png" alt="ilustração de garoto com notebook" min-width="400px" max-width="200px" width="200px" align="right" >
 
 ### 🧠 Linguagens e Tecnologias que utilizo:
 
