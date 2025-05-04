@@ -15,6 +15,7 @@ Sou apaixonado por transformar ideias em soluções práticas. Tenho experiênci
 
 ---
 <img src="ilustracao.png" alt="ilustração de garoto com notebook" min-width="400px" max-width="200px" width="200px" align="right" >
+<iframe src="https://embed.tidal.com/tracks/22628397" width="500" height="120" allow="encrypted-media" sandbox="allow-same-origin allow-scripts allow-forms allow-popups" title="TIDAL Embed Player" />
 
 ### 🧠 Linguagens e Tecnologias que utilizo:
 
